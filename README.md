@@ -30,22 +30,32 @@ Method yang dimiliki kelas ini :
 > Alur ini hanya untuk program pada bahasa c++, java, dan python
 
 1. Program akan menampilkan menu berisi fitur yang dapat dilakukan, kemudian user akan diminta untuk memasukkan nomor menu yang diinginkan
+   ![](cpp/screenshot/menu_awal.png)
 
 > catatan : program ini belum memiliki error handling sehingga semua aktivitas user dianggap ideal. Seperti jika menginputkan nomor menu yang tidak tersedia, atau memilih menu Show All ketika belum ada data sama sekali.
 
 - Create New Data Mahasiswa
   Setelah memilih fitur ini, user akan diminta untuk memasukkan data-data mahasiswa.
+  ![](cpp/screenshot/create_awal.png)
+  ![](cpp/screenshot/create_pengisian.png)
   Kemudian akan dikembalikan lagi ke menu awal.
+  ![](cpp/screenshot/create_akhir.png)
   
 - Show All Data Mahasiswa
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya, dan akan ditampilkan menu.
+  ![](cpp/screenshot/showall.png)
   
 - Update Data Mahasiswa
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+  ![](cpp/screenshot/update_awal.png)
   Setelah itu, user diminta untuk memperbarui data-data mahasiswa yang sebelumnya dipilih.
+  ![](cpp/screenshot/update_isi.png)
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut telah berubah.
+  ![](cpp/screenshot/update_done.png)
   
 - Delete Data Mahasiswa
+  ![](cpp/screenshot/delete_awal.png)
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+  ![](cpp/screenshot/delete_show.png)
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut tidak ada.
   
