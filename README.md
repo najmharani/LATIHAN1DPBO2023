@@ -59,25 +59,34 @@ Method yang dimiliki kelas ini :
   
 - Update Data Mahasiswa
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+  
   <img
   src="cpp/screenshot/update_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
   Setelah itu, user diminta untuk memperbarui data-data mahasiswa yang sebelumnya dipilih.
+  
   <img
   src="cpp/screenshot/update_isi.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut telah berubah.
+  
   <img
   src="cpp/screenshot/update_done.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Delete Data Mahasiswa
+- 
   <img
   src="cpp/screenshot/delete_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+  
   <img
   src="cpp/screenshot/delete_show.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut tidak ada.
   
