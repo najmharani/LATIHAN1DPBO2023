@@ -35,7 +35,8 @@ Method yang dimiliki kelas ini :
 > catatan : program ini belum memiliki error handling sehingga semua aktivitas user dianggap ideal. Seperti jika menginputkan nomor menu yang tidak tersedia, atau memilih menu Show All ketika belum ada data sama sekali.
 
 - Create New Data Mahasiswa
-  Setelah memilih fitur ini, user akan diminta untuk memasukkan data-data mahasiswa.
+
+Setelah memilih fitur ini, user akan diminta untuk memasukkan data-data mahasiswa.
   <img
   src="cpp/screenshot/create_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -51,24 +52,22 @@ Method yang dimiliki kelas ini :
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Show All Data Mahasiswa
-  Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya, dan akan ditampilkan menu.
+
+Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya, dan akan ditampilkan menu.
   
   <img
   src="cpp/screenshot/showall.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Update Data Mahasiswa
-  Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+
+Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
   
   <img
   src="cpp/screenshot/update_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
   Setelah itu, user diminta untuk memperbarui data-data mahasiswa yang sebelumnya dipilih.
-  
-  <img
-  src="cpp/screenshot/update_isi.png"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
   
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut telah berubah.
   
@@ -77,16 +76,15 @@ Method yang dimiliki kelas ini :
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Delete Data Mahasiswa
-- 
+
+Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
   <img
   src="cpp/screenshot/delete_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-  Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+  Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut tidak ada.
   
   <img
   src="cpp/screenshot/delete_show.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut tidak ada.
   
