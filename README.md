@@ -30,6 +30,7 @@ Method yang dimiliki kelas ini :
 > Alur ini hanya untuk program pada bahasa c++, java, dan python
 
 1. Program akan menampilkan menu berisi fitur yang dapat dilakukan, kemudian user akan diminta untuk memasukkan nomor menu yang diinginkan
+
    ![](cpp/screenshot/menu_awal.png)
 
 > catatan : program ini belum memiliki error handling sehingga semua aktivitas user dianggap ideal. Seperti jika menginputkan nomor menu yang tidak tersedia, atau memilih menu Show All ketika belum ada data sama sekali.
@@ -37,6 +38,7 @@ Method yang dimiliki kelas ini :
 - Create New Data Mahasiswa
 
 Setelah memilih fitur ini, user akan diminta untuk memasukkan data-data mahasiswa.
+
   <img
   src="cpp/screenshot/create_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -78,6 +80,7 @@ Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa 
 - Delete Data Mahasiswa
 
 Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
+
   <img
   src="cpp/screenshot/delete_awal.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
