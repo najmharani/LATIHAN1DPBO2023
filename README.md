@@ -36,26 +36,48 @@ Method yang dimiliki kelas ini :
 
 - Create New Data Mahasiswa
   Setelah memilih fitur ini, user akan diminta untuk memasukkan data-data mahasiswa.
-  ![](cpp/screenshot/create_awal.png)
-  ![](cpp/screenshot/create_pengisian.png)
+  <img
+  src="cpp/screenshot/create_awal.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="cpp/screenshot/create_pengisian.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
   Kemudian akan dikembalikan lagi ke menu awal.
-  ![](cpp/screenshot/create_akhir.png)
+  
+  <img
+  src="cpp/screenshot/create_akhir.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Show All Data Mahasiswa
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya, dan akan ditampilkan menu.
-  ![](cpp/screenshot/showall.png)
+  
+  <img
+  src="cpp/screenshot/showall.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Update Data Mahasiswa
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
-  ![](cpp/screenshot/update_awal.png)
+  <img
+  src="cpp/screenshot/update_awal.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   Setelah itu, user diminta untuk memperbarui data-data mahasiswa yang sebelumnya dipilih.
-  ![](cpp/screenshot/update_isi.png)
+  <img
+  src="cpp/screenshot/update_isi.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut telah berubah.
-  ![](cpp/screenshot/update_done.png)
+  <img
+  src="cpp/screenshot/update_done.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 - Delete Data Mahasiswa
-  ![](cpp/screenshot/delete_awal.png)
+  <img
+  src="cpp/screenshot/delete_awal.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   Setelah memilih fitur ini, program akan menampilkan list seluruh data mahasiswa yang telah dimasukkan sebelumnya. Kemudian user diminta untuk memasukkan nomor data yang ingin diubah dari list tersebut.
-  ![](cpp/screenshot/delete_show.png)
+  <img
+  src="cpp/screenshot/delete_show.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
   Kemudian akan dikembalikan lagi ke menu awal. Jika dilihat dengan show all data mahasiswa tersebut tidak ada.
   
